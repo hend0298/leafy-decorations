@@ -3,7 +3,10 @@ html {
 }
 
 .masthead {
-
+  background-color: #588477;
+  background-image: url("../images/leaves-pattern.svg");
+  border-bottom: 3px solid #2d5a4d;
+  border-top: 3px solid #2d5a4d;
 }
 
 .logo {
@@ -15,6 +18,7 @@ html {
 }
 
 .nav a {
+  color: #fff;
   text-decoration: none;
 }
 
@@ -28,6 +32,10 @@ html {
 
 .banner-content {
 
+}
+
+h1 {
+  color: #fff;
 }
 
 @media only screen and (min-width: 60em) {
