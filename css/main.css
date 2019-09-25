@@ -38,6 +38,12 @@ h1 {
   color: #fff;
 }
 
+.btn {
+  background-color: #588477;
+  border: 3px solid #2d5a4d;
+  border-radius: 8px;
+}
+
 @media only screen and (min-width: 60em) {
 
   .logo {
